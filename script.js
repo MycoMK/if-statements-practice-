@@ -1,4 +1,4 @@
-// console.log('connnected')
+console.log('connnected')
 
 const person = {
     firstName: ' Viggo',
@@ -57,3 +57,8 @@ if( dayOfWeek === 'Monday'){
  }else {
      console.log('Invalid age');
  };
+
+
+//  ARRAYS
+
+let days = ['Monaday','Tuesday','Wednesday'];
