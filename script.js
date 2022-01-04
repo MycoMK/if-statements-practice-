@@ -62,3 +62,9 @@ if( dayOfWeek === 'Monday'){
 //  ARRAYS
 
 let days = ['Monaday','Tuesday','Wednesday'];
+
+const h1 = document.querySelector('h1');
+h1.style.color = 'green'
+h1.style.fontSize= '3em'
+h1.style.border = '2px soild red'
+ document.querySelector('h1').innerText='World star'
